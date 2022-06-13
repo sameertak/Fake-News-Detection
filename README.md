@@ -1,13 +1,16 @@
 # Fake-News-Detection
-
-Libraries used:-
 -------------------------------------------
+Libraries used:-
 -numpy
+
 -pandas
+
 -regex
+
 -nltk
+
 -sklearn
---------------------------------------------
+
 What's done in the code?
 --------------------------------------------
 1) I combined the train and test csv files. And filled the NaN values with empty strings.
@@ -19,9 +22,8 @@ What's done in the code?
 7) Achieved 97% accuracy with Logistic Model.
 8) Used the same model for the test dataset.
 
------------------------------------------
+
 Dataset
 -----------------------------------------
 The dataset is collected from Kaggle.
 Link:- https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
------------------------------------------

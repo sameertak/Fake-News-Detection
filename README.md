@@ -27,4 +27,4 @@ What's done in the code?
 Dataset
 -----------------------------------------
 The dataset is collected from Kaggle.
-Link:- https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+Link:- https://www.kaggle.com/c/fake-news/data?select=train.csv
